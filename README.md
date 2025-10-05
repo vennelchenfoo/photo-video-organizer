@@ -124,10 +124,14 @@ target_folder/
 ## 📸 Screenshots
 
 ### Main Interface
-*[Screenshot will be added here]*
+![Main Interface](docs/screenshots/main_interface.png)
+
+### Processing
+![Processing Interface](docs/screenshots/processing.png)
 
 ### Organized Results
-*[Screenshot will be added here]*
+![Organized Folders](docs/screenshots/organized_folders_01.png)
+![Organized Folders](docs/screenshots/organized_folders_02.png)
 
 ---
 
